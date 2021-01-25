@@ -1,14 +1,7 @@
 using System;
 using Xunit;
 using NSubstitute;
-using NSubstitute.Callbacks;
-using NSubstitute.ClearExtensions;
-using NSubstitute.Compatibility;
-using NSubstitute.Core;
-using NSubstitute.ExceptionExtensions;
 using NSubstitute.ReceivedExtensions;
-using NSubstitute.ReturnsExtensions;
-using NSubstitute.Routing;
 using NotesApp.Services.Models;
 using NotesApp.Services.Abstractions;
 using NotesApp.Services.Services;
